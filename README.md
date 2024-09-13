@@ -1,3 +1,4 @@
 # belajar-kolaborasi
-**comit pertama**
-**comit 1 dari cabang**
+**comit pertama**<br>
+**comit 1 dari cabang**<br>
+**comit 2 dari cabang**<br>
